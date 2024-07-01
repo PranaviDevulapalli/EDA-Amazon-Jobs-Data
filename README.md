@@ -1,4 +1,3 @@
-Sure! Here is a README file for the EDA on the Amazon jobs dataset using `pandas`, `numpy`, and `matplotlib`, including suggestions for further analysis using Machine Learning (ML) and other software tools.
 
 ---
 
