@@ -87,5 +87,3 @@ Contact
 For any queries or contributions, please contact [Pranavi Devulapalli] at [pranavidevulapalli@gmail.com].
 
 ---
-
-Feel free to modify this README to better suit your project and add any other relevant sections. If you want, I can also provide specific insights or visualizations from your `Q1.Amazon_Job.ipynb` file.# EDA-Amazon-Jobs-Data
